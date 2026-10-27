@@ -114,4 +114,4 @@ Create the empty repository on github.com first (no README/.gitignore). Never co
 
 ## Team
 
-Aditya Rawat (S24CSEU2155), Supervisor: Mr. Pulkit Dwivedi
+Aditya Rawat 
